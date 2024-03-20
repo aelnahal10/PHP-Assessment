@@ -7,6 +7,8 @@ then you can execute the commands by typing:
 
 php app.php query:country DE
 
-AND
-
 php app.php summary:services
+
+
+To run the tests execute the following command:
+vendor/bin/phpunit tests 
