@@ -1,4 +1,4 @@
-# clii
+# Guidelines
 start by opening the bash or cmd to the root directory of the project 
 
 then type  composer require symfony/console
